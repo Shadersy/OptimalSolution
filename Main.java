@@ -43,11 +43,11 @@ public class Main {
                               {8.0, 9.0, 1.0, 2.0},
                               {1.0 / 2.0, 2.0, 1.0 / 2.0, 1.0}};
 
-        lub1 obj0 = new lub1();
-        lub1 obj1 = new lub1();
-        lub1 obj2 = new lub1();
-        lub1 obj3 = new lub1();
-        lub1 obj4 = new lub1();
+        OptimalSolution obj0 = OptimalSolution();
+        OptimalSolution obj1 = OptimalSolution();
+        OptimalSolution obj2 = OptimalSolution();
+        OptimalSolution obj3 = new OptimalSolution();
+        OptimalSolution obj4 = new OptimalSolution();
 
 
 for(int i=0; i<5; i++){
